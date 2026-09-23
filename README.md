@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Application](ProjetSIM-Parachute/src/main/images/App.png)
+![Interface de l'application](Projet-SIM-Parachute/ProjetSIM-Parachute/src/main/images/App.png)
 
 ### General Description
 
@@ -167,7 +167,7 @@ This structure ensures that the physical calculations and graphical representati
 
 # UML Diagram
 
-![UML Diagram](ProjetSIM-Parachute/src/main/images/UML.png)
+![Diagramme UML](Projet-SIM-Parachute/ProjetSIM-Parachute/src/main/images/UML.png)
 
 ---
 
