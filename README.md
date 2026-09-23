@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![Application](ProjetSIM-Parachute/src/main/images/App%20.png)
+
 ### General Description
 
 Parachute descents involve several physical parameters that can significantly affect the trajectory and overall performance of a jump. One of the key factors is the timing of parachute deployment, which influences the parachutist's descent speed, trajectory, control, landing conditions, and total jump time.
@@ -165,8 +167,7 @@ This structure ensures that the physical calculations and graphical representati
 
 # UML Diagram
 
-![UML Diagram](images/uml-diagram.png)
-
+![UML Diagram](ProjetSIM-Parachute/src/main/images/UML%20.png)
 
 ---
 
