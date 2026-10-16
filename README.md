@@ -207,8 +207,6 @@ Its drag-and-drop interface made it easier to create and organize complex UI lay
 
 ---
 
-## Collaboration & Version Control
-
 ### GitHub
 
 **GitHub** was used for version control and team collaboration.
@@ -220,10 +218,6 @@ It allowed the team to:
 * Work on different features simultaneously
 * Restore previous working versions
 * Share code between team members
-
-### Microsoft Teams
-
-**Microsoft Teams** was used for team communication, document sharing, project coordination, and scheduling work sessions.
 
 ---
 
